@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\QLDiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|d:\\.net\\qldiem\\qldiem\\frmqlhocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlhocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqllophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqllophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|d:\\.net\\qldiem\\qldiem\\frmdiemsv-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmdiemsv-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqldiemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqldiemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|d:\\.net\\qldiem\\qldiem\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqlsinhvien-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlsinhvien-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|d:\\.net\\qldiem\\qldiem\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqllophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqllophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmqlsinhvien-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmqlsinhvien-lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\csdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\csdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|D:\\.NET\\QLDiem\\qldiem\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A3EFF6-B60B-4F42-88FF-37CFAF3DBAEF}|QLDiem\\QLDiem.csproj|solutionrelative:qldiem\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmQuanLy.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQuanLy.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQuanLy.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQuanLy.cs",
+              "RelativeToolTip": "QLDiem\\FrmQuanLy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:16:23.374Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmQuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQuanLy.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQuanLy.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQuanLy.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:49:32.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CSDL.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\CSDL.cs",
+              "RelativeDocumentMoniker": "QLDiem\\CSDL.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\CSDL.cs",
+              "RelativeToolTip": "QLDiem\\CSDL.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAvwPMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:03:29.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDIemSV-LopHoc.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmDIemSV-LopHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmDIemSV-LopHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmDIemSV-LopHoc.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmDIemSV-LopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:28:20.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmQLHocKy.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLHocKy.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLHocKy.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLHocKy.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLHocKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:27:20.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmQLLopHoc.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLLopHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLLopHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLLopHoc.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:53:39.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmQLDiemMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLDiemMonHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLDiemMonHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLDiemMonHoc.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLDiemMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:10:56.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmDangNhap.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:50:40.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangKy.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmDangKy.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangKy.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:22:31.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmBaoCaoThongKe.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmBaoCaoThongKe.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmBaoCaoThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:27:04.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmQLSinhVien-LopHoc.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien-LopHoc.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLSinhVien-LopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:31:41.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmQLMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLMonHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLMonHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLMonHoc.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:53:22.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmQLSinhVien.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLSinhVien.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien.cs",
+              "RelativeToolTip": "QLDiem\\FrmQLSinhVien.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:50:32.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmQLLopHoc.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLLopHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLLopHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLLopHoc.cs",
+              "RelativeToolTip": "QLDiem\\FrmQLLopHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:12:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmQLSinhVien-LopHoc.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "RelativeToolTip": "QLDiem\\FrmQLSinhVien-LopHoc.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:04:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmQLSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmQLSinhVien.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmQLSinhVien.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmQLSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:53:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmHome.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmHome.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmHome.cs [Design]",
+              "RelativeToolTip": "QLDiem\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:30:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmHome.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmHome.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmHome.cs",
+              "RelativeToolTip": "QLDiem\\FrmHome.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:32:33.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDangKy.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangKy.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmDangKy.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangKy.cs",
+              "RelativeToolTip": "QLDiem\\FrmDangKy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:35:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLDiem\\FrmDangNhap.cs",
+              "ToolTip": "D:\\.NET\\QLDiem\\QLDiem\\FrmDangNhap.cs",
+              "RelativeToolTip": "QLDiem\\FrmDangNhap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:06:31.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
